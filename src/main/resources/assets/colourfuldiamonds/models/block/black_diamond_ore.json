@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colourfuldiamonds:blocks/black_diamond_ore",
+    "up": "colourfuldiamonds:blocks/black_diamond_ore",
+    "north": "colourfuldiamonds:blocks/black_diamond_ore",
+    "east": "colourfuldiamonds:blocks/black_diamond_ore",
+    "south": "colourfuldiamonds:blocks/black_diamond_ore",
+    "west": "colourfuldiamonds:blocks/black_diamond_ore",
+    "particle": "colourfuldiamonds:blocks/black_diamond_ore"
+  }
+}

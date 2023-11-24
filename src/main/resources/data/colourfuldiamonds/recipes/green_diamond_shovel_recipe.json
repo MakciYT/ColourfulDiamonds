@@ -1,0 +1,21 @@
+{
+  "group": "colourfuldiamonds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d",
+    "s",
+    "s"
+  ],
+  "key": {
+    "d": {
+      "item": "colourfuldiamonds:green_diamond"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "colourfuldiamonds:green_diamond_shovel",
+    "count": 1
+  }
+}

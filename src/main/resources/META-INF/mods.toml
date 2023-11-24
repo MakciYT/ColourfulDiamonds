@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="colourfuldiamonds"
+version="1.0"
+displayName="Colourful Diamonds!"
+logoFile="icon.png"
+updateJSONURL="http://myurl.me/"
+displayURL="https://youtube.com/channel/UCoYlkVEoKOOqg6oDGGASwrw <- мой канал на ютубе :)"
+credits="Спасибо всем моим подписчикам и тем, кто скачал этот мод!!!"
+authors="MakciYT"
+description='''
+Этот мод декоративный - он украшает пещеры разноцветными алмазами. Хорошо подходит для сборок (по моему мнению).
+'''
+[[dependencies.colourfuldiamonds]]
+modId="forge"
+mandatory=true
+versionRange="[35,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.colourfuldiamonds]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.4,1.17)"
+ordering="NONE"
+side="BOTH"

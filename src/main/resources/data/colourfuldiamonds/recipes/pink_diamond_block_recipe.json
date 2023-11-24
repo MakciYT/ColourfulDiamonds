@@ -1,0 +1,18 @@
+{
+  "group": "colourfuldiamonds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "ddd",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "colourfuldiamonds:pink_diamond"
+    }
+  },
+  "result": {
+    "item": "colourfuldiamonds:pink_diamond_block",
+    "count": 1
+  }
+}

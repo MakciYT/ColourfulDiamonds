@@ -1,0 +1,21 @@
+{
+  "group": "colourfuldiamonds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dd",
+    " s",
+    " s"
+  ],
+  "key": {
+    "d": {
+      "item": "colourfuldiamonds:black_diamond"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "colourfuldiamonds:black_diamond_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "up": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "north": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "east": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "south": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "west": "colourfuldiamonds:blocks/yellow_diamond_block",
+    "particle": "colourfuldiamonds:blocks/yellow_diamond_block"
+  }
+}
